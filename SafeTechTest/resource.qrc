@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Resources/signature.png</file>
+        <file>Resources/rectangle.png</file>
+        <file>Resources/questionmark.png</file>
+        <file>Resources/banner.png</file>
+        <file>Resources/closebanner.png</file>
+        <file>Resources/mainbanner.png</file>
+    </qresource>
+    <qresource prefix="/Fonts">
+        <file>Resources/PTSerif-Bold.ttf</file>
+        <file>Resources/SegoeUIVariableStaticText.ttf</file>
+    </qresource>
+</RCC>
